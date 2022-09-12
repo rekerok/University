@@ -1,0 +1,6 @@
+[submodule "Numerical-methods"]
+	path = Numerical-methods
+	url = git@github.com:rekerok/Numerical-methods.git
+[submodule "testing-bsu"]
+	path = testing-bsu
+	url = git@github.com:rekerok/testing-bsu.git
