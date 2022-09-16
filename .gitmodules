@@ -4,3 +4,6 @@
 [submodule "testing-bsu"]
 	path = testing-bsu
 	url = git@github.com:rekerok/testing-bsu.git
+[submodule "Algorithms"]
+	path = Algorithms
+	url = git@github.com:rekerok/Algorithms.git
